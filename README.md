@@ -80,7 +80,6 @@ GEMINI_API_KEY=your_gemini_api_key_here
 
 Replace the placeholder with your own Google Gemini API key.
 
-> **Security Note:** Never upload your `.env` file or expose your API key publicly.
 
 ### 5. Run the Application
 
